@@ -18,3 +18,6 @@ https://www.mediafire.com/file/vyhxv2euz8q4axu/Free+number_2.4.apk/file
 
 user : free
 pass  : 11
+
+how to setup video link
+https://www.mediafire.com/file/ug2tqu2v7m46m77/Record_2025-01-21-00-42-12_998d3425f9e75a0428f0fabdce419960.mp4/file
